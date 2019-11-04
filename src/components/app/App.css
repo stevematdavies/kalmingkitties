@@ -23,3 +23,13 @@
 .app-heading-1 {
   font-size: 4rem;
 }
+
+.kitty-image-container {
+  overflow: hidden;
+}
+
+.kitty-image {
+  height: 320px;
+  width: inherit;
+  flex: 1;
+}
