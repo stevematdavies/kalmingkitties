@@ -1,0 +1,23 @@
+.logo {
+  margin: 1rem;
+}
+
+.kitty-logo {
+  display: block;
+}
+
+.inline {
+  width: 32px;
+  height: 32px;
+}
+
+.small {
+  width: 64px;
+  height: 64px;
+}
+
+.placeholder {
+  width: 164px;
+  height: 164px;
+  opacity: 0.1;
+}
